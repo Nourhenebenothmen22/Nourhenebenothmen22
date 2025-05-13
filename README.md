@@ -15,6 +15,6 @@
 - TypeScript
 - Next.js
 - Docker & Kubernetes
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nourhene-dev&show_icons=true&theme=radical" alt="stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=nourhene-dev&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourhene-dev&layout=compact&theme=radical" /> </p>
 
 

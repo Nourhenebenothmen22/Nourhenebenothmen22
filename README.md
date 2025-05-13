@@ -26,19 +26,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nourhene-dev&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nourhene-dev&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourhene-dev&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 💬 Quote of the Moment
 
@@ -48,7 +36,6 @@
 
 ### 🎯 2025 Goals
 
-- ✅ Graduate as a Software Engineer  
 - ✅ Build and share open-source projects  
 - ✅ Intern or work at an innovative tech company  
 - ✅ Never stop learning 🚀

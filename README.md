@@ -16,12 +16,5 @@
 - Next.js
 - Docker & Kubernetes
 
-👩‍💻 Mes technos préférées :
-```js
-{
-  frontend: ["React", "Redux", "HTML", "CSS", "Bootstrap", "Tailwind"],
-  backend: ["Node.js", "Express"],
-  database: ["MongoDB", "MySQL"],
-  tools: ["Git", "GitHub", "Postman", "VS Code"]
-}
+
 

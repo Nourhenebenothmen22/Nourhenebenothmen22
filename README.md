@@ -28,10 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,47 +36,9 @@
 
 ---
 
-## 🚀 Current Projects
 
-### 1. E-Commerce Platform (MERN Stack)
-**Full-stack e-commerce solution with microservices architecture**
-- Developed a scalable online marketplace using React, Node.js, and MongoDB
-- Implemented payment gateway integration and real-time inventory management
-- Designed microservices architecture for independent scaling of components
 
-[![View Project](https://img.shields.io/badge/View_Project-Live_Demo-green?style=for-the-badge)](https://ecommerce.nourhene.dev)
 
-### 2. DevOps Pipeline Automation
-**CI/CD implementation with Docker & Kubernetes**
-- Created automated CI/CD pipelines using GitHub Actions and Jenkins
-- Containerized applications with Docker and orchestrated with Kubernetes
-- Implemented infrastructure-as-code with Terraform for cloud deployments
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/nourhene-devops)
-
-### 3. React Component Library
-**Open-source UI component library for React ecosystem**
-- Published 15+ reusable React components on npm
-- Implemented comprehensive documentation with Storybook
-- Contributed to popular open-source React projects
-
-[![npm Package](https://img.shields.io/badge/npm-Package-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-components-by-nourhene)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=nourhene-ben-othmen&theme=vue&border_radius=10&mode=weekly)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nourhene-ben-othmen&layout=compact&theme=vue&langs_count=8&hide_border=true)
-  
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nourhene-ben-othmen&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
 
 ## 💡 2025 Vision
 

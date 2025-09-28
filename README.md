@@ -1,77 +1,84 @@
-# 💻 Nourhene Ben Othmen
-**Telecommunications Engineer | Full-Stack Developer | Tech Innovator**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nourhene-ben-othmen)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/nourhene-ben-othmen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://nourhene.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@nourhene.dev)
+💫 Nourhene Ben Othmen
+Telecommunications Engineer | Full-Stack Developer | Data Analyst | AI Explorer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&height=50&lines=A+passionate+Full-Stack+Developer;Telecommunications+Engineer;Shaping+the+digital+future" alt="Typing animation" />
+https://komarev.com/gh-users?username=Nourhenebenothmen22&color=blueviolet&style=flat-square
+https://img.shields.io/github/followers/Nourhenebenothmen22?style=social
+https://badges.frapsoft.com/os/v2/open-source.svg?v=103
+
+</div>
+🚀 About Me
+class NourheneBenOthmen:
+    def __init__(self):
+        self.title = "Telecommunications Engineer & Full-Stack Developer"
+        self.passion = "Creating innovative solutions at the intersection of tech and data"
+        self.current_focus = "Data Science & AI Mastery"
+        self.mission = "Bridge infrastructure with intelligent applications"
+        
+    def say_hello(self):
+        return "Welcome to my tech universe! 🚀"
+        
+me = NourheneBenOthmen()
+print(me.say_hello())
+
+🛠️ Tech Arsenal
+Frontend Development
+<div align="center">
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
+
+</div>
+Backend & Databases
+<div align="center">
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+
+</div>
+Data Science & AI
+<div align="center">
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+
+</div>
+Languages & Tools
+<div align="center">
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
 </div>
 
----
+💡 Tech Philosophy
+"The computer revolution is fundamentally a revolution in how we think"
+- Alan Kay
 
-## 🛠️ Tech Stack
+I believe in creating technology that solves real human problems. As a Telecommunications Engineer transitioning into full-stack development and data science, I bridge the gap between infrastructure and intelligent applications, building solutions that are both technically robust and user-centric.
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-
-
-
-
-## 💡 2025 Vision
-
-- ✅ **Publish 3+ open source projects**
-- 🚧 **Complete AWS Certified Developer certification** (in progress)
-- 🔜 **Land internship at cutting-edge tech company**
-- 🌱 **Master advanced DevOps practices**
-- 📚 **Contribute to technical education through workshops**
-
----
-
-## 🤔 Philosophy
-
-> "The computer revolution is fundamentally a revolution in how we think"
-> 
-> *- Alan Kay*
-
-I believe technology should solve real human problems. As a Telecommunications Engineer transitioning into full-stack development, I bridge the gap between infrastructure and application, creating solutions that are both technically robust and user-centric.
-
----
-
-## 🌱 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's build something amazing together!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nourhene-ben-othmen)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/nourhene-ben-othmen)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/nourhene_dev)
-[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium)](https://medium.com/@nourhene-dev)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:contact@nourhene.dev)
-
----
+🌐 Let's Connect & Collaborate
+I'm always excited to discuss new projects, innovative ideas, and opportunities to be part of your vision. Let's build something amazing together! 🚀
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nourhene-ben-othmen&label=Profile+Views&color=2D9CDB&style=flat-square" alt="Profile views" />
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white
+
 </div>
+<div align="center">
+"Turning data into decisions, and ideas into impact"
+⭐ Star my projects if you find them interesting! ⭐
+
+</div>
+

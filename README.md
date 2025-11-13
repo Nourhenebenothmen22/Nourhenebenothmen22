@@ -1,155 +1,99 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  🚀 Hey there, I'm <span style="color:#6C63FF; text-shadow: 0 0 10px #6C63FF;">Nourhene Ben Othmen</span>
-</h1>
-
-<h3 align="center" style="border-bottom: 3px solid #6C63FF; padding-bottom: 10px;">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  Telecommunications Engineer | Full-Stack Developer | Data Scientist | AI Innovator
-</h3>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Nourhenebenothmen22&color=6C63FF&style=flat-square)
-  ![Followers](https://img.shields.io/github/followers/Nourhenebenothmen22?color=6C63FF&style=social)
-  ![Stars](https://img.shields.io/github/stars/Nourhenebenothmen22?color=6C63FF&style=social)
-
-</div>
-
----
-
-## 🌟 **About Me**
+<h1 align="center">🚀 Hey there, I'm <span style="color:#6C63FF;">Nourhene Ben Othmen</span></h1>
+<h3 align="center">Telecommunications Engineer | Full-Stack Developer | Data Scientist | AI Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=50&lines=👩‍💻+Full-Stack+Developer+%26+AI+Engineer;🚀+Building+Intelligent+Web+Ecosystems;🤖+AI+%2B+Telecom+%2B+Software+Innovation;💡+Turning+Data+into+Decisions;🌍+Shaping+the+Future+of+Tech+2026" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=👩‍💻+Building+Intelligent+and+Scalable+Solutions;🚀+Bridging+AI+%2B+Software+Engineering;🌍+Shaping+the+Future+of+Tech;💡+Innovating+through+Data,+Code+%26+Creativity" />
 </p>
 
-> 🎯 **Mission**: *"Engineering intelligent systems that bridge the gap between human needs and technological possibilities."*
+---
+
+## 🔭 2026 Vision — *Engineering the Future*
+
+> “The future belongs to those who design it.” — I see 2026 as a turning point for **AI-driven web systems**,  
+> where intelligence, automation, and connectivity redefine how we build, interact, and innovate.  
+> I aim to stand at the intersection of **software engineering**, **data science**, and **telecom innovation**,  
+> crafting systems that think, learn, and empower.
 
 ---
 
-## 🛠️ **Tech Stack & Superpowers**
+## 🛠️ My Tech Stack  
 
-### **Frontend Galaxy** 🌌
-<div align="center">
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,ts" />
+</p>
 
-</div>
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
+</p>
 
-### **Backend Universe** 🚀
-<div align="center">
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧠 AI, Data & Analytics  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-</div>
-
-### **AI & Data Science** 🧠
-<div align="center">
-  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
-
-### **DevOps & Cloud** ☁️
-<div align="center">
-  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
+### ☁️ DevOps & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,linux" />
+</p>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 💡 My Engineering Philosophy  
+<p align="center"><em>"Technology isn't just about code — it's about creating impact through clarity, scalability, and empathy."</em></p>
 
-<div align="center">
-
-  <!-- Stats Cards -->
-  <a href="https://github.com/Nourhenebenothmen22">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=6C63FF&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&langs_count=8&theme=radical&border_color=6C63FF&bg_color=0D1117&title_color=6C63FF"/>
-  </a>
-
-  <!-- Streak Stats -->
-  <a href="https://github.com/Nourhenebenothmen22">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhenebenothmen22&theme=radical&border_color=6C63FF&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
-  </a>
-
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  
-  ![Nourhene's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nourhenebenothmen22&theme=react-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true)
-
-</div>
+### 🧭 Guiding Principles
+- 🌐 Build **connected intelligent ecosystems**  
+- 🤖 Integrate **AI thinking into web systems**  
+- 🔒 Advocate **secure, ethical, and inclusive tech**  
+- 🚀 Mentor and collaborate to **empower innovation**  
 
 ---
 
-## 🎯 **Featured Projects**
+## 📊 GitHub Analytics  
 
-### 🤖 **AI-Powered Projects**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[SmartVision AI](https://github.com/Nourhenebenothmen22/smartvision)** | Real-time object detection system | Python, OpenCV, TensorFlow |
-| **[DataFlow Analytics](https://github.com/Nourhenebenothmen22/dataflow)** | Big data processing platform | PySpark, AWS, MongoDB |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nourhenebenothmen22&theme=radical&hide_border=true" height="165" />
+</p>
 
-### 🌐 **Full-Stack Applications**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Nexus Platform](https://github.com/Nourhenebenothmen22/nexus)** | Enterprise resource planning | React, Node.js, PostgreSQL |
-| **[Quantum Dashboard](https://github.com/Nourhenebenothmen22/quantum)** | Real-time analytics dashboard | Vue.js, FastAPI, Redis |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## 📈 **Development Activity**
+## 🌐 Connect with Me  
 
-<!-- GitHub Metrics -->
-<div align="center">
-  
-  <img src="https://github.com/Nourhenebenothmen22/Nourhenebenothmen22/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Nourhenebenothmen22&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/Nourhenebenothmen22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Nourhenebenothmen22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:nourhene07@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@nourhenebenothmen22"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📚 **Learning & Growth**
+## 🎉 Fun Section  
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
+</p>
 
-### **Currently Mastering** 🎯
-- **Machine Learning Engineering**
-- **Cloud Architecture (AWS Solutions Architect)**
-- **Microservices & System Design**
-- **Quantum Computing Basics**
+<p align="center">
+  <b>✨ From Vision to Execution — Building the Intelligent Web of 2026 ✨</b>
+</p>
 
-### **2026 Roadmap** 🗺️
-```mermaid
-graph LR
-A[2024] --> B[AI Specialization]
-B --> C[Cloud Mastery]
-C --> D[System Architecture]
-D --> E[Tech Leadership]
+---
+
+## 🚀 Let's Collaborate
+- 💡 Open to **innovative projects**, **AI-powered web apps**, and **full-stack solutions**  
+- 🌍 Passionate about **impactful technology** for **real-world problems**  
+- 🤝 Always eager to **learn, mentor, and grow** with other developers  
+

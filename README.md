@@ -17,11 +17,9 @@
   <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0B1020" />
   <img src="https://img.shields.io/badge/Obs-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0B1020" />
 </p>
-
 <p align="center">
-  <img src="PUT_STICKER_GIF_URL_HERE" width="180" />
+  <img src="https://profile-counter.glitch.me/Nourhenebenothmen22/count.svg" />
 </p>
-
 
 ---
 

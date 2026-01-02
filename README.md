@@ -71,12 +71,7 @@
 
 ---
 
-<!-- ===================== PROJECTS BANNER ===================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=90&section=header&text=Featured%20Projects%20%E2%80%94%20Impact%20%26%20Delivery&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
-  />
-</p>
+
 <!-- ===================== PROJECTS BANNER ===================== -->
 <p align="center">
   <img

@@ -13,13 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Reliable%20Systems-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Observability-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://profile-counter.glitch.me/Nourhenebenothmen22/count.svg" />
 </p>
 

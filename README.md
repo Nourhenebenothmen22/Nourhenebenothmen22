@@ -73,21 +73,51 @@
 
 
 
-## 🚀 Featured Projects (write like a recruiter reads)
+<!-- ===================== FEATURED PROJECTS BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:FF4D8D&height=90&section=header&text=Featured%20Projects%20%E2%80%94%20Impact%20%26%20Delivery&fontSize=26&fontColor=FFFFFF&animation=fadeIn" />
+</p>
 
-- 🔥 **Project 1** — Outcome (ex: reduced time by X%) + stack
-- ⚡ **Project 2** — Outcome (ex: automated Y) + stack
-- 🧩 **Project 3** — Outcome (ex: improved latency) + stack
+## 🚀 Featured Projects (recruiter scan)
+
+- 🔥 **Project 1 — [Title]**: Delivered [business value] (ex: faster onboarding / less manual work) • Stack: React, Node, MongoDB, Docker.
+- ⚡ **Project 2 — [Title]**: Automated [process] with CI/CD and containerization • Stack: GitHub Actions, Docker, Linux, Nginx.
+- 🧩 **Project 3 — [Title]**: Improved reliability/maintainability with clean architecture & monitoring • Stack: Prometheus, Grafana, Zabbix.
+
+<details>
+<summary><b>📌 What recruiters should notice</b></summary>
+
+- Ownership: I take features from idea → implementation → deployment.
+- Reliability mindset: I care about monitoring, alerts, and production behavior.
+- Communication: documentation, clarity, and collaboration.
+
+</details>
 
 ---
+
+<!-- ===================== LEARNING BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=90&section=header&text=Learning%20Roadmap%20%E2%80%94%20Growth%20Mindset&fontSize=26&fontColor=FFFFFF&animation=fadeIn" />
+</p>
 
 ## 🌱 Learning Roadmap
 
-- System design & software craftsmanship (clean code, testing, architecture).
-- Observability deeper dive (alerts quality, SLO mindset).
-- German (Deutsch): consistency, vocabulary, speaking confidence.
+- **System design**: scalable APIs, patterns, trade-offs, testing discipline.
+- **Observability**: better dashboards, alert quality, SLO mindset.
+- **German (Deutsch)**: consistency, vocabulary, speaking confidence.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-System%20Design-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Focus-Observability-F46800?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Learning-Deutsch-22C55E?style=for-the-badge&labelColor=0B1020" />
+</p>
 
 ---
+
+<!-- ===================== CONNECT BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:22C55E&height=90&section=header&text=Connect%20%E2%80%94%20Let%E2%80%99s%20Build%20Something%20Real&fontSize=26&fontColor=FFFFFF&animation=fadeIn" />
+</p>
 
 ## 🌐 Connect
 
@@ -104,4 +134,8 @@
   <a href="mailto:nourhene07@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF4D8D,100:0B1020&height=110&section=footer" />
 </p>

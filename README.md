@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Obs-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0B1020" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Nourhenebenothmen22&style=for-the-badge&color=6C63FF" />
+<p align="center">
+  <img src="PUT_STICKER_GIF_URL_HERE" width="180" />
+</p>
 
 
 ---

@@ -71,33 +71,7 @@
   <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD%20%7C%20Linux-2496ED?style=for-the-badge&labelColor=0B1020" />
 </p>
 
-### Frontend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,ts&perline=8" />
-  </a>
-</p>
 
-### Backend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&perline=8" />
-  </a>
-</p>
-
-### DevOps / Cloud / Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx,git,github,githubactions,postman,vscode&perline=9" />
-  </a>
-</p>
-
-### Monitoring / Observability
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,zabbix&perline=12&theme=dark" />
-</p>
-
----
 
 ## 🚀 Featured Projects (write like a recruiter reads)
 

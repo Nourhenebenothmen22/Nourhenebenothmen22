@@ -25,11 +25,7 @@
 ---
 
 <!-- ===================== 2026 FOCUS BANNER ===================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=85&section=header&text=2026%20Focus%20%E2%80%94%20Build%20%7C%20Ship%20%7C%20Operate&fontSize=24&fontColor=FFFFFF&animation=fadeIn"
-  />
-</p>
+
 
 ## 🔭 2026 Vision (recruiter-focused)
 
@@ -163,6 +159,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0B1020,100:6C63FF&height=110&section=footer" />
-</p>
+

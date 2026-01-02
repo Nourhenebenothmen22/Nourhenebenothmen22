@@ -67,31 +67,7 @@
   <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD%20%7C%20Linux-2496ED?style=for-the-badge&labelColor=0B1020" />
 </p>
 
-### Frontend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,ts&perline=8" />
-  </a>
-</p>
 
-### Backend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&perline=8" />
-  </a>
-</p>
-
-### DevOps / Cloud / Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx,git,github,githubactions,postman,vscode&perline=9" />
-  </a>
-</p>
-
-### Monitoring / Observability
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,zabbix&perline=12&theme=dark" />
-</p>
 
 ---
 
@@ -101,23 +77,37 @@
     src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=90&section=header&text=Featured%20Projects%20%E2%80%94%20Impact%20%26%20Delivery&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
   />
 </p>
+<!-- ===================== PROJECTS BANNER ===================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=90&section=header&text=Featured%20Projects%20%E2%80%94%20Selected%20Work&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
+  />
+</p>
 
-## 🚀 Featured Projects (recruiter scan)
+## 🚀 Featured Projects
 
-- 🔥 **Project 1 — [Title]**: Delivered [business value] (ex: reduced manual work / faster workflow) • Stack: React, Node, MongoDB, Docker.
-- ⚡ **Project 2 — [Title]**: Automated CI/CD + container delivery for consistent deployments • Stack: GitHub Actions, Docker, Linux, Nginx.
-- 🧩 **Project 3 — [Title]**: Improved reliability with monitoring & actionable alerts • Stack: Prometheus, Grafana, Zabbix.
+| Project | What it delivers | Tech stack |
+|---|---|---|
+| 🔥 **[Project 1 — Title](PROJECT_1_LINK)** | **Result:** reduced manual work / faster workflow (add a number if possible). | React • Node • MongoDB • Docker |
+| ⚡ **[Project 2 — Title](PROJECT_2_LINK)** | **Result:** automated CI/CD + reproducible deployments. | GitHub Actions • Docker • Linux • Nginx |
+| 🧩 **[Project 3 — Title](PROJECT_3_LINK)** | **Result:** improved reliability with monitoring + actionable alerts. | Prometheus • Grafana • Zabbix |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Impact-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Focus-Delivery-22C55E?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Focus-Reliability-F46800?style=for-the-badge&labelColor=0B1020" />
+</p>
 
 <details>
-<summary><b>📌 What recruiters should notice</b></summary>
+<summary><b>📌 Highlights recruiters care about</b></summary>
 
-- Ownership: I take features from idea → implementation → deployment.
-- Reliability mindset: I care about production behavior, monitoring, and alert quality.
-- Communication: clear documentation and collaboration.
+- Ownership: feature from idea → implementation → deployment.
+- Engineering quality: clean code, tests when relevant, performance mindset.
+- Production thinking: monitoring, alerting, logs, and fast troubleshooting.
+- Collaboration: clear docs + communication.
 
 </details>
 
----
 
 <!-- ===================== LEARNING BANNER ===================== -->
 <p align="center">

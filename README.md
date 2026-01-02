@@ -18,9 +18,8 @@
   <img src="https://img.shields.io/badge/Obs-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0B1020" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Nourhenebenothmen22/count.svg" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Nourhenebenothmen22&style=for-the-badge&color=6C63FF" />
+
 
 ---
 

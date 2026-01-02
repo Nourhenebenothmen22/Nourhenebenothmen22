@@ -26,16 +26,7 @@
   <img src="https://img.shields.io/badge/Alerting-Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Nourhenebenothmen22/count.svg" />
-  <img src="https://img.shields.io/github/followers/Nourhenebenothmen22?style=for-the-badge&color=6C63FF" />
-  <img src="https://img.shields.io/github/stars/Nourhenebenothmen22?style=for-the-badge&color=FF4D8D" />
-</p>
 
-<p align="center">
-  <!-- Snake animation (needs workflow) -->
-  <img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 

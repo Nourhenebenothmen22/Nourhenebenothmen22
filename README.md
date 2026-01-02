@@ -93,15 +93,7 @@
   <img src="https://img.shields.io/badge/Focus-Reliability-F46800?style=for-the-badge&labelColor=0B1020" />
 </p>
 
-<details>
-<summary><b>📌 Highlights recruiters care about</b></summary>
 
-- Ownership: feature from idea → implementation → deployment.
-- Engineering quality: clean code, tests when relevant, performance mindset.
-- Production thinking: monitoring, alerting, logs, and fast troubleshooting.
-- Collaboration: clear docs + communication.
-
-</details>
 
 
 <!-- ===================== LEARNING BANNER ===================== -->

@@ -1,35 +1,63 @@
-<h1 align="center">🚀 Hey there, I'm <span style="color:#6C63FF;">Nourhene Ben Othmen</span></h1>
-<h3 align="center">Telecommunications Engineer | Full-Stack Developer | Data Scientist | AI Innovator</h3>
+<!-- ===== HERO ===== -->
+<h1 align="center">
+  Nourhene Ben Othmen
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=👩‍💻+Building+Intelligent+and+Scalable+Solutions;🚀+Bridging+AI+%2B+Software+Engineering;🌍+Shaping+the+Future+of+Tech;💡+Innovating+through+Data,+Code+%26+Creativity" />
+  Telecommunications Engineer • Full-Stack Developer • Data Scientist • AI & DevOps Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Web+Systems;Bridging+AI+%2B+Software+Engineering;DevOps+Mindset:+Automate,+Observe,+Scale;From+Vision+to+Execution:+Ship+Impact" />
+</p>
+
+<p align="center">
+  <!-- Visitor counter -->
+  <img src="https://profile-counter.glitch.me/Nourhenebenothmen22/count.svg" />
+</p>
+
+<p align="center">
+  <!-- Quick badges (dynamic-ish) -->
+  <img src="https://img.shields.io/github/followers/Nourhenebenothmen22?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Nourhenebenothmen22?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Nourhenebenothmen22/Nourhenebenothmen22?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔭 2026 Vision — *Engineering the Future*
+## 🔭 2026 Vision — Engineering the Future
 
-> “The future belongs to those who design it.” — I see 2026 as a turning point for **AI-driven web systems**,  
-> where intelligence, automation, and connectivity redefine how we build, interact, and innovate.  
-> I aim to stand at the intersection of **software engineering**, **data science**, and **telecom innovation**,  
-> crafting systems that think, learn, and empower.
+> “The future belongs to those who design it.”
+
+- AI-driven web systems: intelligent automation, personalization, observability.
+- DevOps culture: CI/CD, container-first delivery, monitoring-by-design.
+- Telecom + data + software: building connected, scalable, real-world platforms.
 
 ---
 
-## 🛠️ My Tech Stack  
+## 🧩 What I Build
 
-### 🎨 Frontend  
-<p align="center">
+- AI-powered web apps (recommendation, prediction, NLP, analytics).
+- Full-stack systems (APIs, microservices, real-time features).
+- Data products (ETL pipelines, dashboards, ML evaluation).
+- DevOps automation (Docker, CI/CD, infra workflows, monitoring basics).
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,ts" />
 </p>
 
-### ⚙️ Backend  
-<p align="center">
+### Backend
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
 </p>
 
-### 🧠 AI, Data & Analytics  
-<p align="center">
+### AI / Data
+<p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -38,62 +66,65 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### ☁️ DevOps & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,linux" />
+### DevOps / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions,nginx,postman,vscode" />
 </p>
 
 ---
 
-## 💡 My Engineering Philosophy  
-<p align="center"><em>"Technology isn't just about code — it's about creating impact through clarity, scalability, and empathy."</em></p>
-
-### 🧭 Guiding Principles
-- 🌐 Build **connected intelligent ecosystems**  
-- 🤖 Integrate **AI thinking into web systems**  
-- 🔒 Advocate **secure, ethical, and inclusive tech**  
-- 🚀 Mentor and collaborate to **empower innovation**  
-
----
-
-## 📊 GitHub Analytics  
+## 📈 Live GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nourhenebenothmen22&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Nourhenebenothmen22&theme=radical&hide_border=true&background=00000000" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="165" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 📊 Activity Graph (dynamic)
 
-<p align="center">
-  <a href="https://linkedin.com/in/Nourhenebenothmen22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Nourhenebenothmen22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:nourhene07@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://medium.com/@nourhenebenothmen22"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&theme=redical&hide_border=true" />
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Tip: pin 3-6 projects here manually for best impact -->
+- 🔥 **Project 1** — Short one-line value proposition (stack: X/Y/Z)
+- ⚡ **Project 2** — Short one-line value proposition (stack: X/Y/Z)
+- 🧠 **Project 3** — Short one-line value proposition (stack: X/Y/Z)
+
+---
+
+## 🌐 Connect
+
+<p>
+  <a href="https://linkedin.com/in/Nourhenebenothmen22">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nourhenebenothmen22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:nourhene07@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@nourhenebenothmen22">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🎉 Fun Section  
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
-</p>
+## 🤝 Let’s Collaborate
 
-<p align="center">
-  <b>✨ From Vision to Execution — Building the Intelligent Web of 2026 ✨</b>
-</p>
-
----
-
-## 🚀 Let's Collaborate
-- 💡 Open to **innovative projects**, **AI-powered web apps**, and **full-stack solutions**  
-- 🌍 Passionate about **impactful technology** for **real-world problems**  
-- 🤝 Always eager to **learn, mentor, and grow** with other developers  
-
+- Open to: AI-powered web apps, full-stack platforms, DevOps automation.
+- Interested in: scalable systems, data products, real-world impact.
+- Always: learning, mentoring, building, shipping.

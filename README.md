@@ -21,11 +21,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
 </p>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:0B1020&height=110&section=footer&animation=fadeIn"
-  />
-</p>
+
 
 
 

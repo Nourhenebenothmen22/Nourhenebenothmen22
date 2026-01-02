@@ -31,26 +31,45 @@
 
 
 
+<!-- ===================== SECTION BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=85&section=header&text=2026%20Focus%20%E2%80%94%20Build%20%7C%20Ship%20%7C%20Operate&fontSize=24&fontColor=FFFFFF&animation=fadeIn" />
+</p>
 
+## 🔭 2026 Vision (recruiter-focused)
 
-## 🔭 2026 Vision
+- Deliver **production-ready** web systems: clean architecture, performance, maintainability.
+- Practice DevOps daily: CI/CD, Docker-first workflows, reliability & security by default.
+- Build with observability: metrics, dashboards, alerting → faster debugging & better uptime.
 
-- Build scalable web systems with clean architecture and strong fundamentals.
-- DevOps culture: CI/CD, container-first delivery, reliability & security.
-- Monitoring-first mindset: metrics, logs, traces, alerting.
+<details>
+<summary><b>🎯 Motivation (why)</b></summary>
+
+- I enjoy turning ambiguous problems into stable, maintainable systems.
+- I like automation because it reduces human error and speeds up delivery.
+- I’m driven by continuous learning (currently: German / Deutsch).
+
+</details>
 
 ---
 
-## 🧩 What I Build
+## 🧩 What I Build (impact first)
 
-- Full-stack apps (React/Node, APIs, auth, dashboards).
-- Backend services (REST, caching, databases, performance tuning).
-- DevOps automation (Docker, GitHub Actions, Linux, Nginx).
-- Observability setups (Prometheus, Grafana, Zabbix).
+- Full-stack apps: React/Node, authentication, dashboards, clean UI/UX.
+- Backend services: REST APIs, caching, database design, performance tuning.
+- DevOps automation: Docker, GitHub Actions, Linux, Nginx basics.
+- Observability: Prometheus + Grafana dashboards, Zabbix monitoring/alerts.
 
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Redux%20%7C%20Tailwind-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express-22C55E?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/DB-MongoDB%20%7C%20Postgres%20%7C%20Redis-F59E0B?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD%20%7C%20Linux-2496ED?style=for-the-badge&labelColor=0B1020" />
+</p>
 
 ### Frontend
 <p>
@@ -75,25 +94,24 @@
 
 ### Monitoring / Observability
 <p>
-  <!-- Using go-skill-icons because it includes prometheus/grafana/zabbix icons -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,zabbix&perline=12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,zabbix&perline=12&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (write like a recruiter reads)
 
-- 🔥 **Project 1** — One-line impact + stack
-- ⚡ **Project 2** — One-line impact + stack
-- 🧩 **Project 3** — One-line impact + stack
+- 🔥 **Project 1** — Outcome (ex: reduced time by X%) + stack
+- ⚡ **Project 2** — Outcome (ex: automated Y) + stack
+- 🧩 **Project 3** — Outcome (ex: improved latency) + stack
 
 ---
 
 ## 🌱 Learning Roadmap
 
-- Exploring new languages & best practices in software craftsmanship.
-- Improving communication and technical documentation.
-- Learning German (Deutsch) step by step: consistency over speed.
+- System design & software craftsmanship (clean code, testing, architecture).
+- Observability deeper dive (alerts quality, SLO mindset).
+- German (Deutsch): consistency, vocabulary, speaking confidence.
 
 ---
 

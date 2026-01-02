@@ -1,14 +1,12 @@
-<!-- ===== HERO ===== -->
-<h1 align="center">
-  Nourhene Ben Othmen
-</h1>
+<!-- ===================== HERO ===================== -->
+<h1 align="center">Nourhene Ben Othmen</h1>
 
 <p align="center">
-  Telecommunications Engineer • Full-Stack Developer • Data Scientist • AI & DevOps Enthusiast
+  Telecommunications Engineer • Full-Stack Developer • DevOps Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Web+Systems;Bridging+AI+%2B+Software+Engineering;DevOps+Mindset:+Automate,+Observe,+Scale;From+Vision+to+Execution:+Ship+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2600&color=6C63FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineering+%7C+APIs+%26+Scalable+Systems;DevOps+Mindset:+Automate+%E2%86%92+Deploy+%E2%86%92+Observe;Docker+%7C+CI%2FCD+%7C+Linux+%7C+Cloud;Building+Reliable+Products+from+Idea+to+Production" />
 </p>
 
 <p align="center">
@@ -17,30 +15,33 @@
 </p>
 
 <p align="center">
-  <!-- Quick badges (dynamic-ish) -->
-  <img src="https://img.shields.io/github/followers/Nourhenebenothmen22?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Nourhenebenothmen22?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/Nourhenebenothmen22/Nourhenebenothmen22?style=for-the-badge" />
+  <!-- Animated + colorful badges -->
+  <img src="https://img.shields.io/github/followers/Nourhenebenothmen22?style=for-the-badge&color=6C63FF" />
+  <img src="https://img.shields.io/github/stars/Nourhenebenothmen22?style=for-the-badge&color=FF4D8D" />
+  <img src="https://img.shields.io/github/last-commit/Nourhenebenothmen22/Nourhenebenothmen22?style=for-the-badge&color=22C55E" />
+</p>
+
+<p align="center">
+  <!-- “Snake” animation (needs a workflow; see notes below) -->
+  <img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🔭 2026 Vision — Engineering the Future
+## 🔭 2026 Vision
 
-> “The future belongs to those who design it.”
-
-- AI-driven web systems: intelligent automation, personalization, observability.
-- DevOps culture: CI/CD, container-first delivery, monitoring-by-design.
-- Telecom + data + software: building connected, scalable, real-world platforms.
+- Build scalable web systems with clean architecture and strong fundamentals.
+- DevOps culture: CI/CD, container-first, monitoring & reliability.
+- Connected products: real-time features + strong security mindset.
 
 ---
 
 ## 🧩 What I Build
 
-- AI-powered web apps (recommendation, prediction, NLP, analytics).
-- Full-stack systems (APIs, microservices, real-time features).
-- Data products (ETL pipelines, dashboards, ML evaluation).
-- DevOps automation (Docker, CI/CD, infra workflows, monitoring basics).
+- Full-stack applications (React/Node, APIs, authentication, dashboards).
+- Backend services (REST, caching, databases, performance tuning).
+- DevOps automation (Docker, GitHub Actions CI/CD, Linux, Nginx basics).
+- Data dashboards & reporting (Power BI).
 
 ---
 
@@ -48,40 +49,36 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,ts" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,ts&perline=8" />
+  </a>
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
-</p>
-
-### AI / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&perline=8" />
+  </a>
 </p>
 
 ### DevOps / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions,nginx,postman,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,githubactions,postman,vscode&perline=9" />
+  </a>
 </p>
 
 ---
 
-## 📈 Live GitHub Analytics
+## 📈 GitHub Analytics (live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Nourhenebenothmen22&theme=radical&hide_border=true&background=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Nourhenebenothmen22&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
@@ -94,10 +91,11 @@
 
 ## 🚀 Featured Projects
 
-<!-- Tip: pin 3-6 projects here manually for best impact -->
-- 🔥 **Project 1** — Short one-line value proposition (stack: X/Y/Z)
-- ⚡ **Project 2** — Short one-line value proposition (stack: X/Y/Z)
-- 🧠 **Project 3** — Short one-line value proposition (stack: X/Y/Z)
+> Pin 3–6 repos on your GitHub profile + add short impact lines here.
+
+- 🔥 **Project 1** — What it solves + stack
+- ⚡ **Project 2** — What it automates + stack
+- 🧩 **Project 3** — What it improves + stack
 
 ---
 
@@ -116,15 +114,4 @@
   <a href="mailto:nourhene07@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@nourhenebenothmen22">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
 </p>
-
----
-
-## 🤝 Let’s Collaborate
-
-- Open to: AI-powered web apps, full-stack platforms, DevOps automation.
-- Interested in: scalable systems, data products, real-world impact.
-- Always: learning, mentoring, building, shipping.

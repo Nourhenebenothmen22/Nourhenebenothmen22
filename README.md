@@ -1,13 +1,13 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== HERO (ANIMATED + STABLE) ===================== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=220&section=header&text=Nourhene%20Ben%20Othmen&fontSize=54&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:6C63FF&height=250&section=header&text=Nourhene%20Ben%20Othmen&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=89B4FA&center=true&vCenter=true&width=980&lines=Telecommunications+Engineer;Full-Stack+Developer;DevOps+%26+Observability;Prometheus+%7C+Grafana+%7C+Zabbix;Learning:+Deutsch"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=850&color=89B4FA&center=true&vCenter=true&width=980&lines=Telecommunications+Engineer;Full-Stack+Developer;DevOps+%26+Observability;Prometheus+%7C+Grafana+%7C+Zabbix;Learning:+Deutsch"
   />
 </p>
 
@@ -17,11 +17,17 @@
   <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0B1020" />
   <img src="https://img.shields.io/badge/Obs-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0B1020" />
 </p>
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Nourhenebenothmen22/count.svg" />
+  <!-- Visitor counter (replace Glitch with Komarev: more reliable) -->
+  <img src="https://komarev.com/ghpvc/?username=Nourhenebenothmen22&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 </p>
 
----
+<p align="center">
+  <!-- Optional GIF (stable “movement”) -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" />
+</p>
+
 
 <!-- ===================== 2026 FOCUS BANNER ===================== -->
 

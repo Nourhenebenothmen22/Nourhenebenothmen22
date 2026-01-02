@@ -11,10 +11,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=700&color=89B4FA&center=true&vCenter=true&width=980&lines=Telecommunications+Engineer;Full-Stack+Developer;DevOps+%26+Observability;Prometheus+%7C+Grafana+%7C+Zabbix;Learning:+Deutsch"
   />
 </p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Nourhenebenothmen22/count.svg" />
-</p>
+*
 
 <p align="center">
   <!-- Optional: keep only if you like it (stable GIF) -->

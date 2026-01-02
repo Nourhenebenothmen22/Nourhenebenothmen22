@@ -1,26 +1,22 @@
-<!-- ===================== HERO (ANIMATED + SAFE) ===================== -->
+<!-- ===================== HERO (RECRUITER-READY DARK) ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Nourhene%20Ben%20Othmen&fontSize=56&fontAlignY=38&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=220&section=header&text=Nourhene%20Ben%20Othmen&fontSize=54&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=650&color=00E5FF&center=true&vCenter=true&width=980&lines=Telecommunications+Engineer;Full-Stack+Developer;DevOps+Enthusiast;Prometheus+%7C+Grafana+%7C+Zabbix;Always+learning+%E2%80%94+next:+Deutsch" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=700&color=89B4FA&center=true&vCenter=true&width=980&lines=Telecommunications+Engineer;Full-Stack+Developer;DevOps+%26+Observability;Prometheus+%7C+Grafana+%7C+Zabbix;Learning:+Deutsch"
+  />
 </p>
 
 <p align="center">
-  <!-- Animated GIF (very stable on GitHub) -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="170" />
-</p>
-
-<p align="center">
-  <!-- Colorful badges -->
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Reliable%20Systems-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metrics-Prometheus-FF6A00?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dashboards-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observability-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 <p align="center">
@@ -28,12 +24,14 @@
 </p>
 
 <p align="center">
-  <!-- Snake animation (only works after you add the workflow that generates /output files) -->
-  <img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/output/github-contribution-grid-snake-dark.svg" />
+  <!-- Optional: keep only if you like it (stable GIF) -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:0B1020&height=110&section=footer&animation=fadeIn"
+  />
 </p>
 
 

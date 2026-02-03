@@ -1,53 +1,145 @@
-</div>
+<!-- ===================== HERO (ANIMATED + STABLE) ===================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:6C63FF&height=250&section=header&text=Nourhene%20Ben%20Othmen&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"
+  />
+</p>
 
-**🎯 2026 Learning Goals:**
-- 📐 **System Design:** Scalable architecture patterns, testing strategies
-- 📊 **Observability:** SLO mindset, alert quality, advanced Grafana
-- 🇩🇪 **Deutsch:** Consistent practice, B1 proficiency, speaking confidence
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=850&color=89B4FA&center=true&vCenter=true&width=980&lines=Telecommunications+Engineer;Full-Stack+Developer;DevOps+%26+Observability;Prometheus+%7C+Grafana+%7C+Zabbix;Learning:+Deutsch"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Reliable%20Systems-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-22C55E?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Obs-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0B1020" />
+</p>
+
+<p align="center">
+  <!-- Visitor counter (replace Glitch with Komarev: more reliable) -->
+  <img src="https://komarev.com/ghpvc/?username=Nourhenebenothmen22&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <!-- Optional GIF (stable “movement”) -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" />
+</p>
+
+
+<!-- ===================== 2026 FOCUS BANNER ===================== -->
+
+
+## 🔭 2026 Vision (recruiter-focused)
+
+- Deliver production-ready systems: clean architecture, performance, maintainability.
+- DevOps mindset: automate delivery with CI/CD, Docker-first workflows, security by default.
+- Observability-first: metrics, dashboards, alerting → faster debugging & better uptime.
+
+<details>
+<summary><b>🎯 Motivation (why)</b></summary>
+
+- I like turning ambiguous problems into stable, maintainable products.
+- I prefer automation to reduce errors and speed up delivery.
+- I keep improving continuously (currently: German / Deutsch).
+
+</details>
 
 ---
 
-## 🤝 Let's Connect!
+## 🧩 What I Build (impact first)
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Nourhenebenothmen22">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:benothmennourhen8@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a>
-
-### 💬 Open to Opportunities
-
-**I'm interested in:**
-- Full-Stack Development roles
-- DevOps Engineering positions
-- System Reliability projects
-- Collaborative tech teams
-
-</div>
+- Full-stack apps: React/Node, authentication, dashboards, clean UI/UX.
+- Backend services: REST APIs, caching, database design, performance tuning.
+- DevOps automation: Docker, GitHub Actions, Linux, Nginx basics.
+- Observability: Prometheus + Grafana dashboards, Zabbix monitoring/alerts.
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-### 💭 Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Redux%20%7C%20Tailwind-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express-22C55E?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/DB-MongoDB%20%7C%20Postgres%20%7C%20Redis-F59E0B?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD%20%7C%20Linux-2496ED?style=for-the-badge&labelColor=0B1020" />
+</p>
 
-### 🐍 Contribution Graph
-<img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
 
-**⭐ If you find my work interesting, consider starring my repositories!**
+<!-- ===================== PROJECTS BANNER ===================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=90&section=header&text=Featured%20Projects%20%E2%80%94%20Selected%20Work&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
+  />
+</p>
 
-</div>
+## 🚀 Featured Projects
+
+| Project | What it delivers | Tech stack |
+|---|---|---|
+| 🔥 **[Project 1 — Title](PROJECT_1_LINK)** | **Result:** reduced manual work / faster workflow (add a number if possible). | React • Node • MongoDB • Docker |
+| ⚡ **[Project 2 — Title](PROJECT_2_LINK)** | **Result:** automated CI/CD + reproducible deployments. | GitHub Actions • Docker • Linux • Nginx |
+| 🧩 **[Project 3 — Title](PROJECT_3_LINK)** | **Result:** improved reliability with monitoring + actionable alerts. | Prometheus • Grafana • Zabbix |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Impact-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Focus-Delivery-22C55E?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Focus-Reliability-F46800?style=for-the-badge&labelColor=0B1020" />
+</p>
+
+
+
+
+<!-- ===================== LEARNING BANNER ===================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=90&section=header&text=Learning%20Roadmap%20%E2%80%94%20Growth%20Mindset&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
+  />
+</p>
+
+## 🌱 Learning Roadmap
+
+- System design: scalable APIs, patterns, trade-offs, testing discipline.
+- Observability: dashboards, alert quality, SLO mindset.
+- German (Deutsch): consistency, vocabulary, speaking confidence.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-System%20Design-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Focus-Observability-F46800?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Learning-Deutsch-22C55E?style=for-the-badge&labelColor=0B1020" />
+</p>
+
+---
+
+<!-- ===================== CONNECT BANNER ===================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:6C63FF&height=90&section=header&text=Connect%20%E2%80%94%20Let%E2%80%99s%20Build%20Something%20Real&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
+  />
+</p>
+
+## 🌐 Connect
+
+<p>
+ <a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+  <a href="[https://github.com/Nourhenebenothmen22](https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/)">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:benothmennourhen8@gmail.xom">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+

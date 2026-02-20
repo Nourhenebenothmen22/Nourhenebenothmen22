@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineering+Student;2nd+Year+Engineering+@+iTeam+University;Artificial+Intelligence+%26+Data+Science;Building+Reliable+AI+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineering+Student;2nd+Year+Engineering+@+iTeam+University;Artificial+Intelligence+%26+Data+Science;Full-Stack+%2B+DevOps+Mindset;Building+Reliable+AI+Systems"/>
 </p>
 
 <p align="center">
@@ -18,14 +18,14 @@
 🎓 **2nd Year Engineering Student** @ iTeam University  
 🤖 Specializing in **Artificial Intelligence & Data Science**
 
-I build **production-ready AI systems** combining:
+I design and build **production-ready AI systems** combining:
 
 - 🧠 Machine Learning Engineering  
 - ⚙️ Scalable Backend Architecture  
 - 🐳 DevOps & Automation  
 - 📊 Observability & Monitoring  
 
-I focus on creating systems that are:
+💡 Focused on creating systems that are:
 
 ✔ Deployable  
 ✔ Scalable  
@@ -56,24 +56,45 @@ Focus areas:
 - 🧪 Reproducible experiments  
 - 🌐 API deployment (FastAPI / Node)  
 - 📉 Drift detection  
-- 🔁 Automated retraining  
+- 🔁 Automated retraining pipelines  
 
 ---
 
-## 🛠 Tech Stack
+# ===================== TECHNOLOGY STACK =====================
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,react,postgres,mongodb,redis,docker,linux,git,githubactions"/>
+## 🛠 Technology Stack
+
+### 🤖 AI & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-Data-black?style=flat-square"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%7C%20Grafana-F46800?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI-Scikit--Learn%20%7C%20Pandas-6C63FF?style=flat-square"/>
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### 🚀 DevOps & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
+</p>
+
+### 📊 Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -89,13 +110,13 @@ Focus areas:
 
 | Project | Impact | Stack |
 |----------|--------|--------|
-| 🤖 Smart Study Planner | AI recommendation backend system | React • Node • PostgreSQL • Docker |
-| 🔐 Secure API System | Authentication + security middleware | Express • JWT • PostgreSQL |
+| 🤖 Smart Study Planner | AI recommendation system with backend architecture | React • Node • PostgreSQL • Docker |
+| 🔐 Secure API System | Production-ready authentication & security layer | Express • JWT • PostgreSQL |
 | 📊 Monitoring Setup | Real-time dashboard + alerting | Prometheus • Grafana |
 
 ---
 
-## 🧠 Engineering Principles
+## 💡 Engineering Principles
 
 - 🧱 Clean architecture > quick hacks  
 - 🔄 Automation > repetition  

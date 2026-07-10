@@ -85,8 +85,10 @@ It is **Systems Engineering applied to Intelligence.**
 
 <p align="center">
 
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&theme=tokyo-night&hide_border=true&area=true"/>
+<img 
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&bg_color=0B1020&color=39D353&line=6C63FF&point=FFFFFF&area=true&area_color=39D353&hide_border=true&custom_title=Contribution%20Activity"
+/>
 
 </p>
 ---

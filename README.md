@@ -126,14 +126,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 </p>
 
 
-<p align="center">
-
-<img src="https://github-contribution-stats.vercel.app/api/?username=Nourhenebenothmen22&theme=dark"/>
-
-</p>
-
-
-
 
 ---
 

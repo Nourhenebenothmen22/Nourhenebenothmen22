@@ -121,8 +121,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 <p align="center">
 
 <img 
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&bg_color=0B1020&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true"
+src="https://ghchart.rshah.org/39D353/Nourhenebenothmen22"
+width="900"
 />
 
 </p>

@@ -89,8 +89,18 @@ It is **Systems Engineering applied to Intelligence.**
 src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
+---
+
+---
+
+## 🏆 GitHub Achievements
 
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nourhenebenothmen22&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
 
 ---
 

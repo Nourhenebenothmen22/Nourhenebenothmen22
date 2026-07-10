@@ -113,15 +113,26 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 - Deployment-ready > prototype-only  
 - Continuous improvement  
 
+
 ---
 
-## 🐍 Contribution Snake
+## 🟩 Contribution Activity
+
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://ghchart.rshah.org/6C63FF/Nourhenebenothmen22"/>
 
 </p>
+
+
+<p align="center">
+
+<img src="https://github-contribution-stats.vercel.app/api/?username=Nourhenebenothmen22&theme=dark"/>
+
+</p>
+
+
 
 
 ---

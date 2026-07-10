@@ -78,18 +78,6 @@ It is **Systems Engineering applied to Intelligence.**
 
 <p align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhenebenothmen22&theme=tokyonight&hide_border=true"/>
 
 </p>

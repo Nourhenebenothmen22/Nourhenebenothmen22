@@ -92,8 +92,18 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 ---
 
 
+## 🏆 GitHub Achievements
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nourhenebenothmen22&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
 
 ---
+
+
 
 ## 🚀 Featured Projects
 

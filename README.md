@@ -116,6 +116,29 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 ---
 
 
+## 🟩 Contribution Activity
+
+<p align="center">
+
+<img 
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&bg_color=0B1020&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true"
+/>
+
+</p>
+
+
+<p align="center">
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nourhenebenothmen22&theme=github_dark"
+/>
+
+</p>
+
+---
+
+
 
 ## 🌐 Connect
 

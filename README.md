@@ -92,16 +92,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 ---
 
 
-## 🏆 GitHub Achievements
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nourhenebenothmen22&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
 
 
 
@@ -122,6 +112,36 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 - Metrics > assumptions  
 - Deployment-ready > prototype-only  
 - Continuous improvement  
+
+---
+
+## 🟩 Contribution Activity
+
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/6C63FF/Nourhenebenothmen22"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-contribution-stats.vercel.app/api/?username=Nourhenebenothmen22&theme=dark"/>
+
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 

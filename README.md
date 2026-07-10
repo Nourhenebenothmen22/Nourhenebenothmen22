@@ -114,41 +114,33 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 - Continuous improvement  
 
 
----
-
-## 🟩 Contribution Activity
-
-<p align="center">
-
-<img 
-src="https://ghchart.rshah.org/39D353/Nourhenebenothmen22"
-width="900"
-/>
-
-</p>
-
-
 
 ---
 
 ## 🌐 Connect
 
-<p>
+<p align="center">
+
   <a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/Nourhenebenothmen22">
+  <a href="https://github.com/Nourhenebenothmen22" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="mailto:benothmennourhen8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://wa.me/21621832010" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0B1020&height=120&section=footer"/>
-</p>     
+</p>  

@@ -114,15 +114,12 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 - Continuous improvement  
 
 ---
-
-
-## 🟩 Contribution Activity
+## 📈 Developer Metrics
 
 <p align="center">
 
 <img 
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&bg_color=0B1020&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&hide_border=true&bg_color=0B1020&title_color=6C63FF&icon_color=39D353&text_color=FFFFFF&border_radius=15"
 />
 
 </p>
@@ -131,12 +128,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 <p align="center">
 
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nourhenebenothmen22&theme=github_dark"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&hide_border=true&bg_color=0B1020&title_color=6C63FF&icon_color=39D353&text_color=FFFFFF&border_radius=15"
 />
 
 </p>
 
----
 
 
 

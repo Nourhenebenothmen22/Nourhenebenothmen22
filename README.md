@@ -104,19 +104,9 @@ It is **Systems Engineering applied to Intelligence.**
 - Continuous improvement  
 
 ---
----
 
-## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Nourhenebenothmen22&theme=dark"/>
-</p>
-
----
 
 ## 🌐 Connect
 

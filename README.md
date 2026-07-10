@@ -114,27 +114,17 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 - Continuous improvement  
 
 ---
-## 📈 Developer Metrics
+
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Nourhenebenothmen22&show_icons=true&hide_border=true&bg_color=0B1020&title_color=6C63FF&icon_color=39D353&text_color=FFFFFF&border_radius=15"
-/>
+<img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhenebenothmen22&layout=compact&hide_border=true&bg_color=0B1020&title_color=6C63FF&icon_color=39D353&text_color=FFFFFF&border_radius=15"
-/>
-
-</p>
-
-
-
+---
 
 ## 🌐 Connect
 

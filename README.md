@@ -143,4 +143,4 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebeno
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0B1020&height=120&section=footer"/>
-</p>  
+</p>

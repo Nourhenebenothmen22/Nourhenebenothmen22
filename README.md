@@ -1,21 +1,21 @@
 <!-- ============================================================ -->
 <!-- 🚀 NOURHENE BEN OTHMEN - HIGH IMPACT GITHUB PROFILE README   -->
-<!-- Aesthetic: Tokyo Night Cyber / AI Systems Engineering       -->
+<!-- Theme: Tokyo Night / Cyber AI Systems Engineering           -->
 <!-- ============================================================ -->
 
-<!-- ===================== HERO HEADER ===================== -->
+<!-- ===================== HERO BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:241B4B,100:6C63FF&height=260&section=header&text=Nourhene%20Ben%20Othmen&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Systems%20Engineer&descFontSize=20&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
-<!-- ===================== DYNAMIC TYPING SVG ===================== -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/Nourhenebenothmen22">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=89B4FA&center=true&vCenter=true&width=950&lines=🤖+AI+%26+ML+Systems+Engineering+Student;🎓+2nd+Year+Engineering+%40+iTeam+University;⚡+Turning+Machine+Learning+into+Production-Ready+Systems;🐳+MLOps+•+Scalable+Backend+•+Observability;🌍+Targeting+International+Engineering+Roles+(Deutsch+🇩🇪)" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ===================== STATUS & PROFILE COUNTER BADGES ===================== -->
+<!-- ===================== STATUS BADGES ===================== -->
 <p align="center">
   <a href="https://github.com/Nourhenebenothmen22">
     <img src="https://komarev.com/ghpvc/?username=Nourhenebenothmen22&style=for-the-badge&color=6C63FF&labelColor=0B1020&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -30,12 +30,13 @@
 
 ---
 
-<!-- ===================== ABOUT ME & PHOTO SECTION ===================== -->
+<!-- ===================== ABOUT ME WITH PHOTO ===================== -->
 <table>
   <tr>
     <td width="28%" align="center" valign="middle">
-      <!-- High-resolution framed circular avatar with fallback -->
-      <img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/main/assets/avatar.png" width="185" alt="Nourhene Ben Othmen" onerror="this.src='https://github.com/Nourhenebenothmen22.png'"/>
+      <a href="https://github.com/Nourhenebenothmen22">
+        <img src="https://github.com/Nourhenebenothmen22.png" width="180" alt="Nourhene Ben Othmen" />
+      </a>
       <br/><br/>
       <b>Nourhene Ben Othmen</b>
       <br/>
@@ -57,7 +58,7 @@
         <li>🧠 <b>Core Focus:</b> Machine Learning, Deep Learning, MLOps, Distributed Systems.</li>
         <li>⚙️ <b>Architecture:</b> Microservices, REST APIs (FastAPI, Express, Node.js), Docker & CI/CD.</li>
         <li>📊 <b>Observability:</b> System monitoring, drift detection, and automated retraining (Prometheus, Grafana).</li>
-        <li>🎯 <b>Current Target:</b> Engineering internships & global opportunities (Target: Germany 🇩🇪 / International).</li>
+        <li>🎯 <b>Current Target:</b> Engineering internships & international opportunities (Target: Germany 🇩🇪 / Relocation).</li>
       </ul>
     </td>
   </tr>

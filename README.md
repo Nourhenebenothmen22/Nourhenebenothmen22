@@ -6,17 +6,20 @@
 <!-- ===================== 2. TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/Nourhenebenothmen22">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=900&lines=Final+Year+Engineering+Student+(PFE)+at+iTeam;AI+and+Machine+Learning+Systems+Engineer;Turning+Models+into+Production-Ready+Pipelines;Seeking+End-of-Studies+PFE+Internship+(National+and+Global)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=900&lines=AI+and+Machine+Learning+Systems+Engineer;Engineering+Student+@+iTeam+University;Building+Scalable+Backend+and+MLOps+Architectures;Open+to+Engineering+Opportunities+(National+and+Global)" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ===================== 3. STATUS & TARGET BADGES ===================== -->
+<!-- ===================== 3. METRICS & STATUS BADGES ===================== -->
 <p align="center">
   <a href="https://github.com/Nourhenebenothmen22">
     <img src="https://komarev.com/ghpvc/?username=Nourhenebenothmen22&style=for-the-badge&color=6C63FF&labelColor=0B1020&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
+  <a href="https://github.com/Nourhenebenothmen22?tab=repositories">
+    <img src="https://img.shields.io/badge/PUBLIC%20REPOS-76%2B-89B4FA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Repositories" />
+  </a>
   <a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/">
-    <img src="https://img.shields.io/badge/SEEKING-END%20OF%20STUDIES%20(PFE)%20INTERNSHIP-22C55E?style=for-the-badge&logo=target&logoColor=white&labelColor=0B1020" alt="PFE Status" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-22C55E?style=for-the-badge&logo=target&logoColor=white&labelColor=0B1020" alt="Status Badge" />
   </a>
   <a href="mailto:benothmennourhen8@gmail.com">
     <img src="https://img.shields.io/badge/MOBILITY-NATIONAL%20%26%20INTERNATIONAL-3B82F6?style=for-the-badge&logo=globe&logoColor=white&labelColor=0B1020" alt="Mobility Scope" />
@@ -44,39 +47,48 @@
     <td width="72%" valign="top">
       <h3>👩‍💻 About Me</h3>
       <p>
-        I am a <b>Final-Year Engineering Student (PFE)</b> at <b>iTeam University</b> specializing in <b>Artificial Intelligence & Data Science</b>.
+        I am an <b>Engineering Student in Artificial Intelligence & Data Science</b> at <b>iTeam University</b> with a focus on architecting <b>production-grade AI and distributed software systems</b>.
       </p>
       <p>
-        My core objective is turning complex Machine Learning models into <b>scalable, resilient, and production-grade distributed architectures</b>. I combine deep analytical modeling with solid backend infrastructure:
+        Rather than stopping at isolated models in notebooks, I design and deploy complete end-to-end pipelines combining <b>predictive intelligence, high-throughput backend services, containerized workflows, and real-time observability</b>.
       </p>
       <ul>
-        <li>🧠 <b>Machine Learning & Data Science:</b> Predictive systems, NLP, model performance evaluation, and feature engineering.</li>
-        <li>⚙️ <b>Backend & Systems Architecture:</b> Asynchronous REST APIs, microservices, and secure auth pipelines (FastAPI, Node.js, Express).</li>
-        <li>🐳 <b>MLOps & Cloud Native:</b> Dockerized workflows, automated CI/CD pipelines, reproducible experiments, and model versioning.</li>
-        <li>📊 <b>Observability & Reliability:</b> Metrics-driven monitoring, model drift tracking, and alerting (Prometheus, Grafana).</li>
+        <li>🚀 <b>Currently Building:</b> Full-stack AI talent ecosystems (<code>Khademni</code> & <code>Khedma_AI</code>).</li>
+        <li>⚙️ <b>Core Stack:</b> Python, TypeScript, Docker, FastAPI, PostgreSQL, Linux, Prometheus.</li>
+        <li>📈 <b>GitHub Activity:</b> <b>76+ repositories</b> with over <b>600+ commits</b> across flagship AI & systems projects.</li>
+        <li>🌍 <b>Mobility & Reach:</b> Open to engineering roles and internships on both a <b>National & International</b> scale.</li>
       </ul>
-      <p>
-        🎯 <b>Current Target:</b> Actively looking for a <b>Graduation / PFE Internship (Projet de Fin d'Études)</b> on a <b>National & International</b> scale (Tunisia / Europe / Worldwide / Remote).
-      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ===================== 5. ENGINEERING PHILOSOPHY ===================== -->
-## 🔭 Engineering Philosophy
+<!-- ===================== 5. CURRENT FOCUS ===================== -->
+## ⚡ What I'm Doing Right Now
 
-> **Core Motto:** *"AI is not just about model accuracy. It is Systems Engineering applied to Intelligence."*
->
-> - ⚡ **Clean Architecture** > Quick Hacks  
-> - ⚡ **Automated CI/CD Pipelines** > Manual Deployments  
-> - ⚡ **Observability & Metrics** > Assumptions  
-> - ⚡ **Production-Ready Systems** > Notebooks Only  
+- 🔨 **Active Flagship Platforms:** Actively shipping **Khademni** (240+ commits) and **Khedma_AI** (160+ commits) — AI-powered talent marketplaces with custom recommendation algorithms and robust PostgreSQL backends.
+- 🛡️ **MLOps & Drift Engineering:** Building **MachineGuardOps** — an automated data drift detection and model retraining trigger pipeline with Prometheus & Docker.
+- 📊 **Big Data Pipelines:** Processing high-volume transaction logs and distributed data sets using **Python and HiveQL** (ecommerce-bigdata).
+- 🤖 **GenAI Automation:** Developing autonomous web agents like **ai-freelance-hunter** for automated real-time opportunity extraction.
 
 ---
 
-<!-- ===================== 6. TECHNICAL ARSENAL ===================== -->
+<!-- ===================== 6. FLAGSHIP REPOSITORIES ===================== -->
+## 🚀 Flagship Repositories & Real Commit Activity
+
+| Repository | Focus & Architecture | Commits | Stack | Direct Link |
+| :--- | :--- | :---: | :--- | :---: |
+| 💼 **Khademni** | Full-scale talent ecosystem & marketplace with relational database modeling and Dockerization. | **240+** | `TypeScript` `PostgreSQL` `Docker` | [View Repo ↗](https://github.com/Nourhenebenothmen22/Khademni) |
+| 🤖 **Khedma_AI** | AI-driven job and candidate matching engine powered by intelligent recommendation logic. | **160+** | `TypeScript` `NLP` `REST API` | [View Repo ↗](https://github.com/Nourhenebenothmen22/Khedma_AI) |
+| 📄 **career-docs-ai** | AI document generation and resume intelligence assistant with automated pipelines. | **140+** | `JavaScript` `Docker` `Node.js` | [View Repo ↗](https://github.com/Nourhenebenothmen22/career-docs-ai) |
+| 🛒 **ecommerce-bigdata** | Distributed data ingestion and transaction log processing pipeline for enterprise scale. | **25+** | `Python` `HiveQL` `Big Data` | [View Repo ↗](https://github.com/Nourhenebenothmen22/ecommerce-bigdata) |
+| 🛡️ **MachineGuardOps** | Production MLOps monitoring pipeline for data quality checks, drift tracking, and retraining alerts. | **Active** | `Python` `Docker` `Prometheus` | [View Repo ↗](https://github.com/Nourhenebenothmen22/MachineGuardOps) |
+| 🎯 **ai-freelance-hunter** | Autonomous web extraction and opportunity aggregation agent built for real-time freelance jobs. | **Active** | `Python` `Automation` `Docker` | [View Repo ↗](https://github.com/Nourhenebenothmen22/ai-freelance-hunter) |
+
+---
+
+<!-- ===================== 7. TECHNICAL ARSENAL ===================== -->
 ## 🛠️ Technical Arsenal
 
 ### 🧠 Artificial Intelligence & Data Science
@@ -109,25 +121,13 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0B1020" alt="Grafana"/>
 </p>
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases & Big Data
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0B1020" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0B1020" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0B1020" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black&labelColor=0B1020" alt="Apache Hive"/>
 </p>
-
----
-
-<!-- ===================== 7. FEATURED REAL PROJECTS ===================== -->
-## 🚀 Featured Engineering Projects
-
-| Project | Architecture & Problem Solved | Core Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🛡️ **MachineGuardOps** | MLOps production pipeline: automated data quality checks, model drift monitoring, and retraining hooks. | `Python` `MLOps` `Docker` `Prometheus` | [View Repo ↗](https://github.com/Nourhenebenothmen22/MachineGuardOps) |
-| 💼 **Khedma_AI / Khademni** | AI talent platform: smart matching algorithms matching engineering candidates with market opportunities. | `TypeScript` `React` `FastAPI` `PostgreSQL` | [View Repo ↗](https://github.com/Nourhenebenothmen22/Khedma_AI) |
-| 📈 **Student Performance Prediction** | End-to-end ML workflow: exploratory analysis, feature selection, predictive models, and explainability. | `Python` `Scikit-Learn` `Pandas` `Jupyter` | [View Repo ↗](https://github.com/Nourhenebenothmen22/student_performance_prediction) |
-| 🛒 **E-Commerce BigData Analytics** | High-volume log ingestion and analytics pipeline containerized for large-scale data environments. | `Python` `Big Data` `Docker` `SQL` | [View Repo ↗](https://github.com/Nourhenebenothmen22/ecommerce-bigdata) |
-| 🔐 **Enterprise Auth & Security API** | Production microservice architecture: JWT authentication, OTP verification, and rate limiting. | `Node.js` `Express` `MongoDB` `Redis` | [View Repo ↗](https://github.com/Nourhenebenothmen22/MERN-OTP-Auth) |
 
 ---
 
@@ -139,6 +139,11 @@
   <img src="https://streak-stats.demolab.com/?user=Nourhenebenothmen22&theme=tokyonight&hide_border=true&background=0B1020&ring=6C63FF&fire=6C63FF&currStreakNum=89B4FA&sideNums=89B4FA&currStreakLabel=6C63FF" width="49%" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nourhenebenothmen22&theme=tokyonight" width="49%" alt="Top Languages Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nourhenebenothmen22&theme=tokyonight" width="49%" alt="Profile Summary Card" />
+</p>
+
 <h3 align="center">📈 365-Day Contribution Activity</h3>
 <p align="center">
   <img src="https://ghchart.rshah.org/6C63FF/Nourhenebenothmen22" width="100%" alt="Contribution Graph" />
@@ -146,7 +151,19 @@
 
 ---
 
-<!-- ===================== 9. LANGUAGES ===================== -->
+<!-- ===================== 9. ENGINEERING PRINCIPLES ===================== -->
+## 💡 Engineering Principles
+
+> **Core Motto:** *"AI is not just about model accuracy. It is Systems Engineering applied to Intelligence."*
+>
+> - ⚡ **Clean Architecture** > Quick Hacks  
+> - ⚡ **Automated CI/CD Pipelines** > Manual Deployments  
+> - ⚡ **Observability & Metrics** > Assumptions  
+> - ⚡ **Production-Ready Systems** > Notebooks Only  
+
+---
+
+<!-- ===================== 10. LANGUAGES ===================== -->
 ## 🌍 Languages & Communication
 
 <p align="center">
@@ -158,7 +175,7 @@
 
 ---
 
-<!-- ===================== 10. CONNECT & SOCIALS ===================== -->
+<!-- ===================== 11. CONNECT & SOCIALS ===================== -->
 ## 📬 Let's Connect & Collaborate
 
 <p align="center">
@@ -178,7 +195,7 @@
 
 ---
 
-<!-- ===================== 11. FOOTER BANNER ===================== -->
+<!-- ===================== 12. FOOTER BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0B1020&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>

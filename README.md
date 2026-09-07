@@ -52,15 +52,6 @@
       <p>
         I am an <b>Engineering Student in Artificial Intelligence & Data Science</b> at <b>iTeam University</b>, specializing in engineering <b>autonomous AI bots, scalable SaaS architectures, and production software systems</b>.
       </p>
-      <p>
-        My engineering approach bridges real-world problem solving with continuous automation: I build autonomous 24/7 background daemons that monitor live channels, perform AI-powered matching, and automate complex workflows.
-      </p>
-      <ul>
-        <li>🤖 <b>Dual Autonomous Daemons:</b> Creator of <b>PFE-IA Hunter</b> (auto-hunting PFE internships & Junior roles) and <b>AI Freelance Hunter</b> (auto-aggregating freelance gigs 24/7).</li>
-        <li>🚀 <b>Production SaaS Platforms:</b> Architect of <b>Khademni</b> (240+ commits, ONNX vector search & pgvector) and <b>Khedma_AI</b> (160+ commits).</li>
-        <li>⚙️ <b>Core Stack:</b> Python, Open Clove, TypeScript, Docker, PostgreSQL (pgvector), FastAPI, Node.js, Linux.</li>
-        <li>🌍 <b>Target & Mobility:</b> Actively seeking <b>PFE (Graduation Internship) & Junior AI / Software Engineering roles</b> (National & International).</li>
-      </ul>
     </td>
   </tr>
 </table>

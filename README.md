@@ -6,7 +6,7 @@
 <!-- ===================== 2. TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/Nourhenebenothmen22">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=900&lines=AI+and+Machine+Learning+Systems+Engineer;Engineering+Student+@+iTeam+University;Building+Scalable+Backend+and+MLOps+Architectures;Creator+of+PFE-IA+Hunter+Agent;Open+to+PFE+and+Junior+Engineering+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=900&lines=AI+and+Machine+Learning+Systems+Engineer;Engineering+Student+@+iTeam+University;Building+Scalable+Backend+and+MLOps+Architectures;Open+to+Engineering+Opportunities+(National+and+Global)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,16 +47,16 @@
     <td width="72%" valign="top">
       <h3>👩‍💻 About Me</h3>
       <p>
-        I am an <b>Engineering Student in Artificial Intelligence & Data Science</b> at <b>iTeam University</b> dedicated to building <b>production-grade AI and automated software systems</b>.
+        I am an <b>Engineering Student in Artificial Intelligence & Data Science</b> at <b>iTeam University</b> with a focus on architecting <b>production-grade AI and distributed software systems</b>.
       </p>
       <p>
-        Rather than keeping machine learning in isolated experiments, I design complete architectures that bridge intelligent models with <b>high-throughput backend services, containerized deployment pipelines, and live observability</b>.
+        Rather than stopping at isolated models in notebooks, I design and deploy complete end-to-end pipelines combining <b>predictive intelligence, high-throughput backend services, containerized workflows, and real-time observability</b>.
       </p>
       <ul>
-        <li>🤖 <b>Featured Innovation:</b> Designed & deployed <b>PFE-IA Hunter</b>, an autonomous AI agent (Docker + OpenAI + Telegram + Google Sheets) hunting graduation internships & junior roles globally.</li>
-        <li>🚀 <b>Flagship Codebases:</b> Engineering <b>Khademni</b> (240+ commits) and <b>Khedma_AI</b> (160+ commits) — scalable talent platforms.</li>
-        <li>⚙️ <b>Core Arsenal:</b> Python, OpenAI, TypeScript, Docker, FastAPI, PostgreSQL, Linux, Prometheus.</li>
-        <li>🌍 <b>Target & Mobility:</b> Seeking <b>PFE (Graduation Internship) & Junior AI / SWE roles</b> on both a <b>National & International</b> scale.</li>
+        <li>🚀 <b>Currently Building:</b> Full-stack AI talent ecosystems (<code>Khademni</code> & <code>Khedma_AI</code>).</li>
+        <li>⚙️ <b>Core Stack:</b> Python, TypeScript, Docker, FastAPI, PostgreSQL, Linux, Prometheus.</li>
+        <li>📈 <b>GitHub Activity:</b> <b>76+ repositories</b> with over <b>600+ commits</b> across flagship AI & systems projects.</li>
+        <li>🌍 <b>Mobility & Reach:</b> Open to engineering roles and internships on both a <b>National & International</b> scale.</li>
       </ul>
     </td>
   </tr>
@@ -67,10 +67,10 @@
 <!-- ===================== 5. CURRENT FOCUS ===================== -->
 ## ⚡ What I'm Doing Right Now
 
-- 🎯 **PFE-IA Hunter (Autonomous Agent):** Actively running my personal bot containerized with **Docker** and powered by **OpenAI** to scout, filter, and alert me about top PFE internships & Junior AI positions in real time via **Telegram** and **Google Sheets**.
-- 🔨 **Active Flagship Platforms:** Scaling **Khademni** (240+ commits) and **Khedma_AI** (160+ commits) — AI-powered talent marketplaces with custom recommendation algorithms and robust PostgreSQL backends.
-- 🛡️ **MLOps & Drift Engineering:** Developing **MachineGuardOps** — an automated data drift detection and model retraining trigger pipeline with Prometheus & Docker.
+- 🔨 **Active Flagship Platforms:** Actively shipping **Khademni** (240+ commits) and **Khedma_AI** (160+ commits) — AI-powered talent marketplaces with custom recommendation algorithms and robust PostgreSQL backends.
+- 🛡️ **MLOps & Drift Engineering:** Building **MachineGuardOps** — an automated data drift detection and model retraining trigger pipeline with Prometheus & Docker.
 - 📊 **Big Data Pipelines:** Processing high-volume transaction logs and distributed data sets using **Python and HiveQL** (ecommerce-bigdata).
+- 🤖 **GenAI Automation:** Developing autonomous web agents like **ai-freelance-hunter** for automated real-time opportunity extraction.
 
 ---
 
@@ -79,27 +79,27 @@
 
 | Repository | Focus & Architecture | Commits | Stack | Direct Link |
 | :--- | :--- | :---: | :--- | :---: |
-| 🎯 **PFE-IA Hunter** (`ai-freelance-hunter`) | **Personal AI Agent:** Autonomous bot hunting PFE internships & Junior roles globally. Powered by OpenAI, containerized in Docker, with real-time Telegram alerts & Google Sheets CRM sync. | **Active Bot** | `Python` `OpenAI` `Docker` `Telegram` `Google Sheets` | [View Repo ↗](https://github.com/Nourhenebenothmen22/ai-freelance-hunter) |
 | 💼 **Khademni** | Full-scale talent ecosystem & marketplace with relational database modeling and Dockerization. | **240+** | `TypeScript` `PostgreSQL` `Docker` | [View Repo ↗](https://github.com/Nourhenebenothmen22/Khademni) |
 | 🤖 **Khedma_AI** | AI-driven job and candidate matching engine powered by intelligent recommendation logic. | **160+** | `TypeScript` `NLP` `REST API` | [View Repo ↗](https://github.com/Nourhenebenothmen22/Khedma_AI) |
 | 📄 **career-docs-ai** | AI document generation and resume intelligence assistant with automated pipelines. | **140+** | `JavaScript` `Docker` `Node.js` | [View Repo ↗](https://github.com/Nourhenebenothmen22/career-docs-ai) |
 | 🛒 **ecommerce-bigdata** | Distributed data ingestion and transaction log processing pipeline for enterprise scale. | **25+** | `Python` `HiveQL` `Big Data` | [View Repo ↗](https://github.com/Nourhenebenothmen22/ecommerce-bigdata) |
 | 🛡️ **MachineGuardOps** | Production MLOps monitoring pipeline for data quality checks, drift tracking, and retraining alerts. | **Active** | `Python` `Docker` `Prometheus` | [View Repo ↗](https://github.com/Nourhenebenothmen22/MachineGuardOps) |
+| 🎯 **ai-freelance-hunter** | Autonomous web extraction and opportunity aggregation agent built for real-time freelance jobs. | **Active** | `Python` `Automation` `Docker` | [View Repo ↗](https://github.com/Nourhenebenothmen22/ai-freelance-hunter) |
 
 ---
 
 <!-- ===================== 7. TECHNICAL ARSENAL ===================== -->
 ## 🛠️ Technical Arsenal
 
-### 🧠 Artificial Intelligence & GenAI
+### 🧠 Artificial Intelligence & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0B1020" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0B1020" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0B1020" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0B1020" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0B1020" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0B1020" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0B1020" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0B1020" alt="OpenCV"/>
 </p>
 
 ### ⚙️ Backend, Systems & APIs
@@ -111,15 +111,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0B1020" alt="JavaScript"/>
 </p>
 
-### 🐳 DevOps, Automation & Integrations
+### 🐳 DevOps, MLOps & Observability
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0B1020" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B1020" alt="Telegram Bot"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0B1020" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0B1020" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0B1020" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0B1020" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0B1020" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0B1020" alt="Grafana"/>
 </p>
 
 ### 🗄️ Databases & Big Data

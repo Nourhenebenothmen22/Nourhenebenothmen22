@@ -6,7 +6,7 @@
 <!-- ===================== 2. TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/Nourhenebenothmen22">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+@+iTeam+University;Specializing+in+AI+and+Data+Science;Co-Founder+of+TechBridge+and+IEEE+Leader;Building+Autonomous+Agents+and+Empowering+Peers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+@+iTeam+University;Specializing+in+AI+and+Data+Science;Co-Founder+of+TechBridge+and+IEEE+Leader;Building+Autonomous+Agents+and+Scalable+SaaS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,12 +31,12 @@
 
 ---
 
-<!-- ===================== ABOUT ME (WHO I AM) ===================== -->
+<!-- ===================== ABOUT ME (RECRUITER PROFILE) ===================== -->
 <table>
   <tr>
     <td width="28%" align="center" valign="middle">
       <a href="https://github.com/Nourhenebenothmen22">
-        <img src="https://github.com/Nourhenebenothmen22.png" width="180" alt="Nourhene Ben Othmen" />
+        <img src="https://github.com/Nourhenebenothmen22.png" width="175" alt="Nourhene Ben Othmen" />
       </a>
       <br/><br/>
       <b>Nourhene Ben Othmen</b>
@@ -44,35 +44,27 @@
       <sub>Software Engineering Student & Community Leader</sub>
       <br/><br/>
       <a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
       </a>
     </td>
     <td width="72%" valign="top">
       <h3>👩‍💻 About Me</h3>
       <p>
-        I am a <b>Software Engineering Student</b> specializing in <b>Artificial Intelligence & Data Science</b> at <b>iTeam University</b>, with a foundational background in <b>Networks & Telecommunications</b> from the <b>University of Carthage</b>.
+        I am a <b>Software Engineering Student</b> specializing in <b>Artificial Intelligence & Data Science</b> at <b>iTeam University</b>, backed by an academic foundation in <b>Networks & Telecommunications</b> from the <b>University of Carthage</b>.
       </p>
       <p>
-        Beyond lines of code, I define myself by <b>curiosity, initiative, and human impact</b>. I am a natural problem-solver who loves transforming ideas into practical realities — whether that means building autonomous bots to empower students and juniors, co-founding student tech initiatives, or organizing major academic events.
+        Driven by <b>curiosity, autonomy, and tangible impact</b>, I combine technical execution with active leadership to build systems that solve genuine problems for students, developers, and businesses:
       </p>
       <ul>
-        <li>🌱 <b>Who I Am:</b> A passionate learner, proactive creator, and collaborative team player dedicated to continuous self-improvement.</li>
-        <li>🏛️ <b>Leadership & Community:</b> Co-Founder of <b>TechBridge</b>, former <b>General Secretary of IEEE Student Branch</b>, and active student mentor.</li>
-        <li>💡 <b>Philosophy:</b> True engineering is about empathy and utility — creating tools that save time, solve real frustrations, and help people grow.</li>
-        <li>🌍 <b>Mindset & Horizons:</b> Trilingual communicator (English, French, Arabic) eager to contribute to forward-thinking teams locally and globally.</li>
+        <li>🎓 <b>Dual Academic Strength:</b> Strong engineering foundation bridging software architecture, AI algorithms, and networking fundamentals.</li>
+        <li>🏛️ <b>Leadership & Community Impact:</b> <b>Co-Founder of TechBridge</b> (mentoring students & hosting tech workshops), former <b>General Secretary of IEEE Student Branch</b> (coordinating major technological events), and <b>HR Lead @ IEEE Computer Society</b>.</li>
+        <li>🚀 <b>Autonomous Problem-Solver:</b> Creator of 24/7 background AI daemons (PFE-IA Hunter & AI Freelance Hunter) designed to automate opportunity tracking and eliminate manual search.</li>
+        <li>🗣️ <b>Multilingual Professional:</b> Bilingual French (C1), Fluent English, Native Arabic, and conversational German.</li>
+        <li>🎯 <b>Target:</b> Actively seeking <b>PFE (Graduation Internship) & Junior Software / AI Engineering opportunities</b> (National & International mobility).</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-<!-- ===================== LEADERSHIP & COMMUNITY ===================== -->
-## 🌟 Leadership & Community Engagement
-
-- 🚀 **Co-Founder — TechBridge (iTeam University):** Founded a thriving student club dedicated to hands-on tech workshops, peer-to-peer mentoring, and collaborative student projects.
-- 📜 **General Secretary — IEEE Student Branch (iTeam University):** Managed administrative operations, cross-team logistics, and co-organized large-scale technological events and conferences.
-- 👥 **HR Manager — IEEE Computer Society Chapter:** Led talent recruitment, member onboarding, and animated technical training sessions for fellow students.
 
 ---
 
@@ -142,33 +134,17 @@
 
 ---
 
-<!-- ===================== LIVE GITHUB ANALYTICS ===================== -->
-## 📊 Live GitHub Analytics & Consistency
+<!-- ===================== LIVE GITHUB ANALYTICS (SLEEK & COMPACT) ===================== -->
+## 📊 GitHub Activity & Consistency
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nourhenebenothmen22&theme=tokyonight&hide_border=true&background=0B1020&ring=6C63FF&fire=6C63FF&currStreakNum=89B4FA&sideNums=89B4FA&currStreakLabel=6C63FF&timezone=Africa%2FTunis" width="49%" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nourhenebenothmen22&theme=tokyonight" width="49%" alt="Profile Details Card" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Nourhenebenothmen22&theme=tokyonight&hide_border=true&background=0B1020&ring=6C63FF&fire=6C63FF&currStreakNum=89B4FA&sideNums=89B4FA&currStreakLabel=6C63FF&timezone=Africa%2FTunis" alt="GitHub Streak Stats" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nourhenebenothmen22&theme=tokyonight" alt="Top Languages Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nourhenebenothmen22&theme=tokyonight" width="100%" alt="Top Languages Card" />
-</p>
-
-<h3 align="center">📈 365-Day Contribution Activity</h3>
-<p align="center">
-  <img src="https://ghchart.rshah.org/6C63FF/Nourhenebenothmen22" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
-<!-- ===================== LANGUAGES ===================== -->
-## 🌍 Languages & Communication
-
-<p align="center">
-  <img src="https://img.shields.io/badge/French-Bilingual%20%2F%20C1%20Proficiency-6C63FF?style=for-the-badge&labelColor=0B1020" alt="French"/>
-  <img src="https://img.shields.io/badge/English-Fluent%20Working%20Proficiency-89B4FA?style=for-the-badge&labelColor=0B1020" alt="English"/>
-  <img src="https://img.shields.io/badge/Arabic-Native%20(C2)-22C55E?style=for-the-badge&labelColor=0B1020" alt="Arabic"/>
-  <img src="https://img.shields.io/badge/German-A2%20Basic%20Notions-F59E0B?style=for-the-badge&labelColor=0B1020" alt="German"/>
+  <img width="85%" src="https://ghchart.rshah.org/6C63FF/Nourhenebenothmen22" alt="Contribution Graph" />
 </p>
 
 ---

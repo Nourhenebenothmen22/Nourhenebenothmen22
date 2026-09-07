@@ -6,7 +6,7 @@
 <!-- ===================== 2. TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/Nourhenebenothmen22">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=900&lines=AI+and+Software+Systems+Engineer;Engineering+Student+@+iTeam+University;Creator+of+PFE-IA+Hunter+and+AI+Freelance+Hunter;Open+to+PFE+and+Junior+Engineering+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+@+iTeam+University;Specializing+in+AI+and+Data+Science;Co-Founder+of+TechBridge+and+IEEE+Leader;Building+Autonomous+Agents+and+Empowering+Peers" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 ---
 
-<!-- ===================== 4. ABOUT ME SECTION ===================== -->
+<!-- ===================== ABOUT ME (WHO I AM) ===================== -->
 <table>
   <tr>
     <td width="28%" align="center" valign="middle">
@@ -41,7 +41,7 @@
       <br/><br/>
       <b>Nourhene Ben Othmen</b>
       <br/>
-      <sub>AI & Software Systems Engineer</sub>
+      <sub>Software Engineering Student & Community Leader</sub>
       <br/><br/>
       <a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/">
         <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
@@ -50,25 +50,43 @@
     <td width="72%" valign="top">
       <h3>👩‍💻 About Me</h3>
       <p>
-        I am an <b>Engineering Student in Artificial Intelligence & Data Science</b> at <b>iTeam University</b>, specializing in engineering <b>autonomous AI bots, scalable SaaS architectures, and production software systems</b>.
+        I am a <b>Software Engineering Student</b> specializing in <b>Artificial Intelligence & Data Science</b> at <b>iTeam University</b>, with a foundational background in <b>Networks & Telecommunications</b> from the <b>University of Carthage</b>.
       </p>
+      <p>
+        Beyond lines of code, I define myself by <b>curiosity, initiative, and human impact</b>. I am a natural problem-solver who loves transforming ideas into practical realities — whether that means building autonomous bots to empower students and juniors, co-founding student tech initiatives, or organizing major academic events.
+      </p>
+      <ul>
+        <li>🌱 <b>Who I Am:</b> A passionate learner, proactive creator, and collaborative team player dedicated to continuous self-improvement.</li>
+        <li>🏛️ <b>Leadership & Community:</b> Co-Founder of <b>TechBridge</b>, former <b>General Secretary of IEEE Student Branch</b>, and active student mentor.</li>
+        <li>💡 <b>Philosophy:</b> True engineering is about empathy and utility — creating tools that save time, solve real frustrations, and help people grow.</li>
+        <li>🌍 <b>Mindset & Horizons:</b> Trilingual communicator (English, French, Arabic) eager to contribute to forward-thinking teams locally and globally.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ===================== 5. CURRENT FOCUS ===================== -->
-## ⚡ What I'm Doing Right Now
+<!-- ===================== LEADERSHIP & COMMUNITY ===================== -->
+## 🌟 Leadership & Community Engagement
 
-- 🎯 **PFE-IA Hunter (Autonomous 24/7 Daemon):** Running a personal AI bot that executes continuously in background via **Docker**. Whenever the system starts, it automatically fetches and evaluates the latest **PFE (Graduation Internship) and Junior AI/SWE opportunities** on a national and international scale, sending real-time alerts via **Telegram** and syncing them to **Google Sheets**.
-- 💼 **AI Freelance Hunter (Autonomous 24/7 Daemon):** Operating my personal bot powered by **Open Clove** that scrapes freelance channels (Tunisia dev groups, Arab platforms like Khamsat & Mostaql, and global portals like RemoteOK & Jobicy). It automatically extracts new freelance projects and alerts me in real time.
-- 🏫 **Khademni Teacher Recruitment SaaS:** Actively shipping an enterprise recruitment platform (240+ commits) featuring in-process AI matching using **384-dimensional ONNX vector embeddings**, **PostgreSQL pgvector**, and **BM25 Reciprocal Rank Fusion (RRF)**.
-- 📄 **RISALATECH (career-docs-ai):** Building and maintaining an AI SaaS for automated multilingual HR documents (English, French, Arabic).
+- 🚀 **Co-Founder — TechBridge (iTeam University):** Founded a thriving student club dedicated to hands-on tech workshops, peer-to-peer mentoring, and collaborative student projects.
+- 📜 **General Secretary — IEEE Student Branch (iTeam University):** Managed administrative operations, cross-team logistics, and co-organized large-scale technological events and conferences.
+- 👥 **HR Manager — IEEE Computer Society Chapter:** Led talent recruitment, member onboarding, and animated technical training sessions for fellow students.
 
 ---
 
-<!-- ===================== 6. FLAGSHIP REPOSITORIES ===================== -->
+<!-- ===================== WHAT I'M DOING RIGHT NOW ===================== -->
+## ⚡ What I'm Doing Right Now
+
+- 🎯 **PFE-IA Hunter (Autonomous 24/7 Daemon):** Running a personal AI bot that executes continuously in background via Docker. Whenever the system starts, it automatically fetches and evaluates the latest PFE internships and Junior tech opportunities on a national and international scale, sending real-time alerts via **Telegram** and syncing them to **Google Sheets**.
+- 💼 **AI Freelance Hunter (Autonomous 24/7 Daemon):** Operating my personal bot powered by **Open Clove** that continuously scans freelance channels (Tunisia dev groups, Arab platforms like Khamsat & Mostaql, and global portals like RemoteOK & Jobicy) to alert me about new freelance projects in real time.
+- 🏫 **Khademni Teacher Recruitment SaaS:** Shipping an enterprise recruitment platform (240+ commits) featuring in-process AI matching using ONNX vector embeddings, PostgreSQL pgvector, and BM25 Reciprocal Rank Fusion.
+- 📄 **RISALATECH (career-docs-ai):** Maintaining an AI SaaS platform for automated multilingual HR documents (English, French, Arabic).
+
+---
+
+<!-- ===================== FLAGSHIP REPOSITORIES ===================== -->
 ## 🚀 Flagship Repositories (Verified from Official Codebases)
 
 | Repository | Focus & Real Architecture | Commits | Tech Stack | Link |
@@ -81,7 +99,7 @@
 
 ---
 
-<!-- ===================== 7. TECHNICAL ARSENAL ===================== -->
+<!-- ===================== TECHNICAL ARSENAL ===================== -->
 ## 🛠️ Technical Arsenal
 
 ### 🧠 Artificial Intelligence, GenAI & Vector Search
@@ -124,7 +142,7 @@
 
 ---
 
-<!-- ===================== 8. LIVE GITHUB ANALYTICS ===================== -->
+<!-- ===================== LIVE GITHUB ANALYTICS ===================== -->
 ## 📊 Live GitHub Analytics & Consistency
 
 <p align="center">
@@ -143,31 +161,19 @@
 
 ---
 
-<!-- ===================== 9. ENGINEERING PRINCIPLES ===================== -->
-## 💡 Engineering Principles
-
-> **Core Motto:** *"AI is not just about model accuracy. It is Systems Engineering applied to Intelligence."*
->
-> - ⚡ **Clean Architecture** > Quick Hacks  
-> - ⚡ **Automated 24/7 Daemons** > Manual Processes  
-> - ⚡ **Explainable AI & Vector Search** > Opaque Black Boxes  
-> - ⚡ **Production-Ready Systems** > Prototypes Only  
-
----
-
-<!-- ===================== 10. LANGUAGES ===================== -->
+<!-- ===================== LANGUAGES ===================== -->
 ## 🌍 Languages & Communication
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Professional%20Working%20Proficiency-89B4FA?style=for-the-badge&labelColor=0B1020" alt="English"/>
-  <img src="https://img.shields.io/badge/French-Bilingual%20%2F%20Fluent-6C63FF?style=for-the-badge&labelColor=0B1020" alt="French"/>
-  <img src="https://img.shields.io/badge/Arabic-Native-22C55E?style=for-the-badge&labelColor=0B1020" alt="Arabic"/>
-  <img src="https://img.shields.io/badge/German-A2%2FB1%20In%20Progress-F59E0B?style=for-the-badge&labelColor=0B1020" alt="German"/>
+  <img src="https://img.shields.io/badge/French-Bilingual%20%2F%20C1%20Proficiency-6C63FF?style=for-the-badge&labelColor=0B1020" alt="French"/>
+  <img src="https://img.shields.io/badge/English-Fluent%20Working%20Proficiency-89B4FA?style=for-the-badge&labelColor=0B1020" alt="English"/>
+  <img src="https://img.shields.io/badge/Arabic-Native%20(C2)-22C55E?style=for-the-badge&labelColor=0B1020" alt="Arabic"/>
+  <img src="https://img.shields.io/badge/German-A2%20Basic%20Notions-F59E0B?style=for-the-badge&labelColor=0B1020" alt="German"/>
 </p>
 
 ---
 
-<!-- ===================== 11. CONNECT & SOCIALS ===================== -->
+<!-- ===================== CONNECT & SOCIALS ===================== -->
 ## 📬 Let's Connect & Collaborate
 
 <p align="center">
@@ -187,7 +193,7 @@
 
 ---
 
-<!-- ===================== 12. FOOTER BANNER ===================== -->
+<!-- ===================== FOOTER BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0B1020&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>

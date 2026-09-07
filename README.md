@@ -1,148 +1,77 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ============================================================ -->
+<!-- 🚀 NOURHENE BEN OTHMEN - HIGH IMPACT GITHUB PROFILE README   -->
+<!-- Aesthetic: Tokyo Night Cyber / AI Systems Engineering       -->
+<!-- ============================================================ -->
+
+<!-- ===================== HERO HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:6C63FF&height=260&section=header&text=Nourhene%20Ben%20Othmen&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:241B4B,100:6C63FF&height=260&section=header&text=Nourhene%20Ben%20Othmen&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Systems%20Engineer&descFontSize=20&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
+<!-- ===================== DYNAMIC TYPING SVG ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=89B4FA&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Engineering+Student;2nd+Year+Engineering+@+iTeam+University;Artificial+Intelligence+%26+Data+Science;Full-Stack+%2B+DevOps+Mindset;Building+Reliable+AI+Systems"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nourhenebenothmen22&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-</p>
-
----
-
-## 👩‍💻 About Me
-
-🎓 2nd Year Engineering Student @ **iTeam University**  
-🤖 Specializing in **Artificial Intelligence & Data Science**
-
-I build **production-ready AI systems**, combining:
-
-- 🧠 Machine Learning Engineering  
-- ⚙️ Backend Architecture  
-- 🐳 DevOps & Automation  
-- 📊 Observability & Monitoring  
-
-I focus on building systems that are:
-
-✔ Deployable  
-✔ Scalable  
-✔ Monitorable  
-✔ Reliable  
-✔ Maintainable  
-
----
-
-## 🔭 2026 Vision — AI Systems Engineering
-
-- 🚀 Design end-to-end ML systems (training → deployment → monitoring)
-- 📈 Implement CI/CD pipelines for ML workflows
-- 📊 Build observability-first AI services
-- 🧱 Master scalable backend architecture
-- 🌍 Prepare for international engineering opportunities (Deutsch 🇩🇪)
-
----
-
-## 🤖 ML Engineering Focus
-
-I am learning not just to train models —  
-but to engineer intelligent systems.
-
-- Model versioning  
-- Dataset management  
-- API deployment  
-- Drift detection  
-- Monitoring & retraining pipelines  
-
-Because AI is not just modeling.  
-It is **Systems Engineering applied to Intelligence.**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Python%20%7C%20Scikit--Learn%20%7C%20Pandas-8B5CF6?style=for-the-badge&labelColor=0B1020"/>
-  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20FastAPI-22C55E?style=for-the-badge&labelColor=0B1020"/>
-  <img src="https://img.shields.io/badge/DB-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis-F59E0B?style=for-the-badge&labelColor=0B1020"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI/CD%20%7C%20Linux-2496ED?style=for-the-badge&labelColor=0B1020"/>
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%7C%20Grafana-F46800?style=for-the-badge&labelColor=0B1020"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhenebenothmen22&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img 
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nourhenebenothmen22&bg_color=0B1020&color=FFFFFF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Activity"
-/>
-
-</p>
----
-
-
-
-
-
-## 🚀 Featured Projects
-
-| Project | Impact | Stack |
-|----------|--------|--------|
-| 🤖 Smart Study Planner | AI recommendation system with structured backend | React • Node • PostgreSQL • Docker |
-| 🔐 Secure API System | JWT authentication + rate limiting | Express • PostgreSQL |
-| 📊 Monitoring Stack | Dashboard + alert system | Prometheus • Grafana |
-
----
-
-## 💡 Engineering Principles
-
-- Clean architecture > quick hacks  
-- Automation > manual processes  
-- Metrics > assumptions  
-- Deployment-ready > prototype-only  
-- Continuous improvement  
-
-
-
----
-
-## 🌐 Connect
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/Nourhenebenothmen22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=89B4FA&center=true&vCenter=true&width=950&lines=🤖+AI+%26+ML+Systems+Engineering+Student;🎓+2nd+Year+Engineering+%40+iTeam+University;⚡+Turning+Machine+Learning+into+Production-Ready+Systems;🐳+MLOps+•+Scalable+Backend+•+Observability;🌍+Targeting+International+Engineering+Roles+(Deutsch+🇩🇪)" alt="Typing SVG" />
   </a>
+</p>
 
-  <a href="https://github.com/Nourhenebenothmen22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- ===================== STATUS & PROFILE COUNTER BADGES ===================== -->
+<p align="center">
+  <a href="https://github.com/Nourhenebenothmen22">
+    <img src="https://komarev.com/ghpvc/?username=Nourhenebenothmen22&style=for-the-badge&color=6C63FF&labelColor=0B1020&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-
+  <a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/">
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-22C55E?style=for-the-badge&logo=target&logoColor=white&labelColor=0B1020" alt="Status Badge" />
+  </a>
   <a href="mailto:benothmennourhen8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LOCATION-TUNISIA%20%7C%20RELOCATION%20READY-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1020" alt="Location Badge" />
   </a>
-
-  <a href="https://wa.me/21621832010" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0B1020&height=120&section=footer"/>
-</p>
+<!-- ===================== ABOUT ME & PHOTO SECTION ===================== -->
+<table>
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <!-- High-resolution framed circular avatar with fallback -->
+      <img src="https://raw.githubusercontent.com/Nourhenebenothmen22/Nourhenebenothmen22/main/assets/avatar.png" width="185" alt="Nourhene Ben Othmen" onerror="this.src='https://github.com/Nourhenebenothmen22.png'"/>
+      <br/><br/>
+      <b>Nourhene Ben Othmen</b>
+      <br/>
+      <sub>AI & MLOps Engineer</sub>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/nourhene-ben-othmen-a811ab221/">
+        <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td width="72%" valign="top">
+      <h3>👩‍💻 About Me</h3>
+      <p>
+        I am a <b>2nd-year Engineering Student</b> at <b>iTeam University</b> specializing in <b>Artificial Intelligence & Data Science</b>.
+      </p>
+      <p>
+        My goal is to bridge the gap between Machine Learning research and <b>production-ready software systems</b>: building resilient backend architectures, automated MLOps pipelines, containerized deployments, and observable data services.
+      </p>
+      <ul>
+        <li>🧠 <b>Core Focus:</b> Machine Learning, Deep Learning, MLOps, Distributed Systems.</li>
+        <li>⚙️ <b>Architecture:</b> Microservices, REST APIs (FastAPI, Express, Node.js), Docker & CI/CD.</li>
+        <li>📊 <b>Observability:</b> System monitoring, drift detection, and automated retraining (Prometheus, Grafana).</li>
+        <li>🎯 <b>Current Target:</b> Engineering internships & global opportunities (Target: Germany 🇩🇪 / International).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ===================== 2026 VISION & ENGINEERING PRINCIPLES ===================== -->
+## 🔭 2026 Vision — Systems Engineering applied to Intelligence
+
+```yaml
+Core_Motto: "AI is not just about model accuracy. It's about systems reliability, scalability, and observability."
+Principles:
+  - Clean architecture > Quick hacks
+  - Automated CI/CD pipelines > Manual deployments
+  - Observability & Metrics > Guesswork
+  - Production-ready > Prototype-only
